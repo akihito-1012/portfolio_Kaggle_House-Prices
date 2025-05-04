@@ -1,4 +1,4 @@
-# 住宅価格予測 - Kaggle Notebook プロジェクト
+# 住宅価格予測 - Kaggle 
 
 このプロジェクトは、Kaggle の「House Prices - Advanced Regression Techniques」コンペティションで提供されているデータセットを用いて、住宅価格を予測する機械学習モデルを構築したものです。
 
