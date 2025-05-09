@@ -52,3 +52,14 @@
    - 提出ファイル `House_Prices.csv` を作成
 
 ---
+## 🧪 モデル評価とKaggleスコア
+
+- **評価指標**：Root Mean Squared Error（RMSE）  
+  住宅価格予測における誤差の平均的な大きさを表します。
+
+- **Kaggle スコア（Public Leaderboard）**：`0.12954`  
+- **順位（任意）**：1,160位 / 4,637チーム中（例）
+
+> ※スコアは Notebook から出力された `submission.csv` を Kaggle に提出した結果に基づいています。
+
+---
